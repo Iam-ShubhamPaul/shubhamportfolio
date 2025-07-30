@@ -5,7 +5,7 @@ const projects = [
     id: 1,
     title: "SCSDB-MovieApp",
     description: "A beautiful Movie Web-Application using React and Redux",
-    image: "/src/image/ChatGPT Image Jul 29, 2025, 09_40_04 PM.png",
+    image: "/public/resources/image2.png",
     tags: ["React", "TailwindCSS", "Redux"],
     demoUrl: "#",
     githubUrl: "#",
@@ -15,7 +15,7 @@ const projects = [
     title: "Full Stack Print On Demand",
     description:
       "Full Stack Print-on-Demand Web Application using some of the most modern and powerful tools in web development",
-    image: "/src/image/ChatGPT Image Jul 29, 2025, 09_45_59 PM.png",
+    image: "/public/resources/image1.png",
     tags: ["TypeScript", "React.js", "Next.js" ,"Tailwind CSS","ImageKit","Strapi"],
     demoUrl: "#",
     githubUrl: "#",
@@ -26,7 +26,7 @@ const projects = [
     description:
       "Implemented a community detection algorithm to analyze echo chambers in social media data.",
     image:
-      "/src/image/Echo Chamber Web Interface Design.png",
+      "/public/resources/image3.png",
     tags: ["Python", "Community Detection Algorithm"],
     demoUrl: "#",
     githubUrl: "#",
